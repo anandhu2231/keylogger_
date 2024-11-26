@@ -48,10 +48,3 @@ server.sendmail(s_mail,r_mail,msg)
 print("Email Sent to ",s_mail)
 server.quit()
 
-
-"""
-Other ways---
-https://www.geeksforgeeks.org/design-a-keylogger-in-python/#:~:text=Keystroke%20logging%20is%20the%20process,with%20computers%20and%20business%20networks.
-https://www.thepythoncode.com/article/write-a-keylogger-python
-and much more..............
-"""
